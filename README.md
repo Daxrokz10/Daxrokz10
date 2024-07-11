@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Daxrokz10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daxrokz10)](https://github.com/anuraghazra/github-readme-stats)
+![Daksh Gagnani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daxrokz10&show_icons=true&theme=synthwave)
 <!---
 Daxrokz10/Daxrokz10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
