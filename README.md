@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me:- Email- dakshgagnani@gmail.com Phone- +91 9662463969
 - My Linkedin Profile:- https://www.linkedin.com/in/daksh-gagnani-444482314/
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=daxrokz10&label=Profile%20views&color=0e75b6&style=flat" alt="daxrokz10" /> </p>
 
 ![Daksh Gagnani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daxrokz10&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daxrokz10&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
