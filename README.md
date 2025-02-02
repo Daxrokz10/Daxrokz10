@@ -6,6 +6,7 @@
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=daxrokz10&label=Profile%20views&color=0e75b6&style=flat" alt="daxrokz10" /> </p>
 
 ![Daksh Gagnani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daxrokz10&show_icons=true&theme=synthwave)
+![daxrokz10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daxrokz10&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Daxrokz10&theme=synthwave)](https://github.com/ryo-ma/github-profile-trophy)
 <p style="text-align:center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Daxrokz10&theme=synthwave" alt="Daxrokz10" /></p>
