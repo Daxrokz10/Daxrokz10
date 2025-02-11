@@ -9,7 +9,7 @@
 ![daxrokz10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daxrokz10&theme=synthwave_icons=true&hide_border=true&layout=compact)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Daxrokz10?theme=dark&font=Montserrat)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Daxrokz10&theme=synthwave)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p style="text-align:center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Daxrokz10&theme=synthwave" alt="Daxrokz10" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
