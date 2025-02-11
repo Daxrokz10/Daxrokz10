@@ -1,5 +1,5 @@
 - <h1>👋 Hi, I’m Daksh Gagnani</h1>
-- 👀 I’m interested in HTML/CSS
+- 👀 I’m interested in C++
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me:- Email- dakshgagnani@gmail.com Phone- +91 9662463969
 - My Linkedin Profile:- https://www.linkedin.com/in/daksh-gagnani-444482314/
